@@ -1,0 +1,20 @@
+[
+    {
+      "title": "cerveza",
+      "price": 1500,
+      "description": "cerveza negra",
+      "thumbnail": "https://www.cualquiercosa.com",
+      "code": 1001,
+      "stock": 10,
+      "id": 1
+    },
+    {
+      "title": "Fernet",
+      "price": 4000,
+      "description": "Fernet Branca",
+      "thumbnail": "https://www.otracosa.com",
+      "code": 1002,
+      "stock": 10,
+      "id": 2
+    }
+]
